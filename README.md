@@ -20,3 +20,9 @@ Embeddings: Sentence Transformers (all-MiniLM-L6-v2)
 Vector Database: FAISS (Facebook AI Similarity Search)
 LLM: Google Gemini API
 Deployment (Optional): Vercel, AWS, or Render
+
+
+First i created the chatbot using Python using FastAPI
+and then also i created the chatbot using the Next.js Api
+
+I shared the both File of the code.
