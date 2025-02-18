@@ -1,0 +1,3 @@
+npm install faiss-node @google/generative-ai axios cheerio @sentence-transformers/sentence-transformers
+
+pip install flask requests beautifulsoup4 faiss-cpu numpy sentence-transformers google-generativeai
