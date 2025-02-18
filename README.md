@@ -12,7 +12,7 @@ Ensure you have the following installed:
 - Postman (optional, for testing API endpoints)
 - Google Gemini API key (Get it from [Google AI Studio](https://ai.google.dev))
 
-##**Tech Stack Used**
+**Tech Stack Used**
 
 Backend: Flask (Python)
 Scraping: BeautifulSoup, Requests
