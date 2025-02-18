@@ -4,7 +4,7 @@ This is a Retrieval-Augmented Generation (RAG) chatbot that scrapes web content,
 
 ---
 
-## **1. Installation & Running Locally**
+## **Installation & Running Locally**
 ### **Prerequisites**
 Ensure you have the following installed:
 - Python 3.8+
